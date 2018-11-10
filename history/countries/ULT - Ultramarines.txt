@@ -14,7 +14,7 @@ add_ideas = {
 }
 
 set_politics = {
-    ruling_party = containment
+    ruling_party = containment 
 	parties = {
 		eradication = { popularity = 0 }
         containment = { popularity = 100 }
