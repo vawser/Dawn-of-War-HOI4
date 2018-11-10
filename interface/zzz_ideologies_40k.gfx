@@ -1,0 +1,14 @@
+spriteTypes = {	
+    spriteType = {
+		name = "GFX_ideology_containment_group"
+		texturefile = "gfx/interface/ideologies/imperium.dds"
+	}
+    spriteType = {
+		name = "GFX_ideology_pandemonium_group"
+		texturefile = "gfx/interface/ideologies/chaos.dds"
+	}
+    spriteType = {
+		name = "GFX_ideology_eradication_group"
+		texturefile = "gfx/interface/ideologies/tyranid.dds"
+	}
+}

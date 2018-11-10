@@ -1,0 +1,16 @@
+﻿l_english: 
+ # Bookmarks
+ 2161_NAME: "The Water Chip"
+ 2161_DESC: "The Vault Dweller enters the wasteland in search of the water chip for Vault 13."
+ 
+ 2241_NAME: "Fall of the Enclave"
+ 2241_DESC: "The Chosen One beguns his mystic test, decending into the Temple of Trials."
+ 
+ 2248_NAME: "Birth of the Legion"
+ 2248_DESC: "Caesar begins his conquest of the Arizona tribes."
+ 
+ BLANK_DESC: "Intentionally blank."
+ 
+ # Events
+ setup.1.title: "Test"
+ setup.1.desc: "Test"

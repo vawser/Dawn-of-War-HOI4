@@ -1,0 +1,109 @@
+spriteTypes = {	
+    #--------------------------
+    # Race
+    #--------------------------
+    spriteType = {
+		name = "GFX_idea_race_imperial"
+		texturefile = "gfx/interface/ideas/default.dds"
+	}
+    spriteType = {
+		name = "GFX_idea_race_space_marine"
+		texturefile = "gfx/interface/ideas/default.dds"
+	}
+    spriteType = {
+		name = "GFX_idea_race_sisters_of_battle"
+		texturefile = "gfx/interface/ideas/default.dds"
+	}
+    spriteType = {
+		name = "GFX_idea_race_chaos_marine"
+		texturefile = "gfx/interface/ideas/default.dds"
+	}
+    spriteType = {
+		name = "GFX_idea_race_daemon"
+		texturefile = "gfx/interface/ideas/default.dds"
+	}
+    spriteType = {
+		name = "GFX_idea_race_cultist"
+		texturefile = "gfx/interface/ideas/default.dds"
+	}
+    spriteType = {
+		name = "GFX_idea_race_dark_eldar"
+		texturefile = "gfx/interface/ideas/default.dds"
+	}
+    spriteType = {
+		name = "GFX_idea_race_eldar"
+		texturefile = "gfx/interface/ideas/default.dds"
+	}
+    spriteType = {
+		name = "GFX_idea_race_necron"
+		texturefile = "gfx/interface/ideas/default.dds"
+	}
+    spriteType = {
+		name = "GFX_idea_race_ork"
+		texturefile = "gfx/interface/ideas/default.dds"
+	}
+    spriteType = {
+		name = "GFX_idea_race_tau"
+		texturefile = "gfx/interface/ideas/default.dds"
+	}
+    spriteType = {
+		name = "GFX_idea_race_tyranid"
+		texturefile = "gfx/interface/ideas/default.dds"
+	}
+    spriteType = {
+		name = "GFX_idea_race_genestealer"
+		texturefile = "gfx/interface/ideas/default.dds"
+	}
+    
+    #--------------------------
+    # Religion
+    #--------------------------
+    spriteType = {
+		name = "GFX_idea_religion_imperial_cult"
+		texturefile = "gfx/interface/ideas/default.dds"
+	}
+    spriteType = {
+		name = "GFX_idea_religion_chaos_undivided"
+		texturefile = "gfx/interface/ideas/default.dds"
+	}
+    spriteType = {
+		name = "GFX_idea_religion_khorne"
+		texturefile = "gfx/interface/ideas/default.dds"
+	}
+    spriteType = {
+		name = "GFX_idea_religion_tzeentch"
+		texturefile = "gfx/interface/ideas/default.dds"
+	}
+    spriteType = {
+		name = "GFX_idea_religion_nurgle"
+		texturefile = "gfx/interface/ideas/default.dds"
+	}
+    spriteType = {
+		name = "GFX_idea_religion_slannesh"
+		texturefile = "gfx/interface/ideas/default.dds"
+	}
+    spriteType = {
+		name = "GFX_idea_religion_hedonism"
+		texturefile = "gfx/interface/ideas/default.dds"
+	}
+    spriteType = {
+		name = "GFX_idea_religion_eldar_pantheon"
+		texturefile = "gfx/interface/ideas/default.dds"
+	}
+    spriteType = {
+		name = "GFX_idea_religion_ctan"
+		texturefile = "gfx/interface/ideas/default.dds"
+	}
+    spriteType = {
+		name = "GFX_idea_religion_gork_and_mork"
+		texturefile = "gfx/interface/ideas/default.dds"
+	}
+    spriteType = {
+		name = "GFX_idea_religion_greater_good"
+		texturefile = "gfx/interface/ideas/default.dds"
+	}
+    spriteType = {
+		name = "GFX_idea_religion_hivemind"
+		texturefile = "gfx/interface/ideas/default.dds"
+	}
+}

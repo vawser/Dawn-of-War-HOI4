@@ -1,0 +1,34 @@
+﻿l_english: 
+ #-----------------------------------
+ # Ideologies
+ #-----------------------------------
+ eradication: "Eradication"
+ eradication_noun: "Eradication"
+ eradication_desc: "Eradication"
+ 
+ containment: "Containment"
+ containment_noun: "Containment"
+ containment_desc: "Containment"
+ 
+ pandemonium: "Pandemonium"
+ pandemonium_noun: "Pandemonium"
+ pandemonium_desc: "Pandemonium"
+
+ #-----------------------------------
+ # Ideology Modifiers
+ #-----------------------------------
+ eradication_drift: "Eradication Drift"
+ eradication_acceptance: "Eradication Acceptance"
+ 
+ containment_drift: "Containment Drift"
+ containment_acceptance: "Containment Acceptance"
+ 
+ pandemonium_drift: "Pandemonium Drift"
+ pandemonium_acceptance: "Pandemonium Acceptance"
+ 
+ #-----------------------------------
+ # Faction names
+ #-----------------------------------
+ FACTION_NAME_1: "The $LEADER_COUNTRY_ADJ$"
+ 
+ 

@@ -1,0 +1,398 @@
+ideas = {
+	country = {
+        race_imperial = {
+            allowed = {
+                always = no
+            }
+            allowed_civil_war = {
+                always = yes
+            }
+            removal_cost = -1
+            
+            modifier = {
+                generate_wargoal_tension = 0.0
+                join_faction_tension = 1.0
+                lend_lease_tension = 1.0
+                send_volunteers_tension = 1.0
+                
+                take_states_cost_factor = 0.25
+                annex_cost_factor = 0.25
+                
+                conscription = 0.25
+                consumer_goods_factor = 0.25
+                min_export = 0.0
+            }
+            rule = {
+                can_declare_war_on_same_ideology = no
+                can_force_government = no
+                can_send_volunteers = yes
+                can_puppet = yes
+                can_lower_tension = yes
+                can_only_justify_war_on_threat_country = no
+                can_guarantee_other_ideologies = no
+            }
+        }
+        race_space_marine = {
+            allowed = {
+                always = no
+            }
+            allowed_civil_war = {
+                always = yes
+            }
+            removal_cost = -1
+            
+            modifier = {
+                generate_wargoal_tension = 0.0
+                join_faction_tension = 1.0
+                lend_lease_tension = 1.0
+                send_volunteers_tension = 1.0
+                
+                conscription = 0.15
+                consumer_goods_factor = 0.25
+                min_export = 0.0
+            }
+            rule = {
+                can_declare_war_on_same_ideology = no
+                can_force_government = no
+                can_send_volunteers = yes
+                can_puppet = yes
+                can_lower_tension = yes
+                can_only_justify_war_on_threat_country = no
+                can_guarantee_other_ideologies = no
+            }
+        }
+        race_sisters_of_battle = {
+            allowed = {
+                always = no
+            }
+            allowed_civil_war = {
+                always = yes
+            }
+            removal_cost = -1
+            
+            modifier = {
+                generate_wargoal_tension = 0.0
+                join_faction_tension = 1.0
+                lend_lease_tension = 1.0
+                send_volunteers_tension = 1.0
+                
+                conscription = 0.2
+                consumer_goods_factor = 0.25
+                min_export = 0.0
+            }
+            rule = {
+                can_declare_war_on_same_ideology = no
+                can_force_government = no
+                can_send_volunteers = yes
+                can_puppet = yes
+                can_lower_tension = yes
+                can_only_justify_war_on_threat_country = no
+                can_guarantee_other_ideologies = no
+            }
+        }
+        race_chaos_marine = {
+            allowed = {
+                always = no
+            }
+            allowed_civil_war = {
+                always = yes
+            }
+            removal_cost = -1
+            
+            modifier = {
+                generate_wargoal_tension = 0.0
+                join_faction_tension = 1.0
+                
+                take_states_cost_factor = -0.25
+                annex_cost_factor = -0.25
+                
+                conscription = 0.5
+                consumer_goods_factor = 0.0
+                min_export = 0.0
+            }
+            rule = {
+                can_declare_war_on_same_ideology = yes
+                can_force_government = no
+                can_send_volunteers = no
+                can_puppet = no
+                can_lower_tension = no
+                can_only_justify_war_on_threat_country = no
+                can_guarantee_other_ideologies = no
+            }
+        }
+        race_daemon = {
+            allowed = {
+                always = no
+            }
+            allowed_civil_war = {
+                always = yes
+            }
+            removal_cost = -1
+            
+            modifier = {
+                generate_wargoal_tension = 0.0
+                join_faction_tension = 1.0
+                
+                take_states_cost_factor = -0.25
+                annex_cost_factor = -0.25
+                
+                conscription = 0.75
+                consumer_goods_factor = 0.0
+                min_export = 0.0
+            }
+            rule = {
+                can_declare_war_on_same_ideology = yes
+                can_force_government = no
+                can_send_volunteers = no
+                can_puppet = no
+                can_lower_tension = no
+                can_only_justify_war_on_threat_country = no
+                can_guarantee_other_ideologies = no
+            }
+        }
+        race_cultist = {
+            allowed = {
+                always = no
+            }
+            allowed_civil_war = {
+                always = yes
+            }
+            removal_cost = -1
+            
+            modifier = {
+                generate_wargoal_tension = 0.0
+                join_faction_tension = 1.0
+                
+                take_states_cost_factor = -0.25
+                annex_cost_factor = -0.25
+                
+                conscription = 0.25
+                consumer_goods_factor = 0.0
+                min_export = 0.0
+            }
+            rule = {
+                can_declare_war_on_same_ideology = yes
+                can_force_government = no
+                can_send_volunteers = no
+                can_puppet = no
+                can_lower_tension = no
+                can_only_justify_war_on_threat_country = no
+                can_guarantee_other_ideologies = no
+            }
+        }
+        race_dark_eldar = {
+            allowed = {
+                always = no
+            }
+            allowed_civil_war = {
+                always = yes
+            }
+            removal_cost = -1
+            
+            modifier = {
+                generate_wargoal_tension = 0.0
+                join_faction_tension = 1.0
+                
+                take_states_cost_factor = -0.25
+                annex_cost_factor = -0.25
+                
+                conscription = 0.25
+                consumer_goods_factor = 0.0
+                min_export = 0.0
+            }
+            rule = {
+                can_declare_war_on_same_ideology = yes
+                can_force_government = no
+                can_send_volunteers = no
+                can_puppet = no
+                can_lower_tension = no
+                can_only_justify_war_on_threat_country = no
+                can_guarantee_other_ideologies = no
+            }
+        }
+        race_eldar = {
+            allowed = {
+                always = no
+            }
+            allowed_civil_war = {
+                always = yes
+            }
+            removal_cost = -1
+            
+            modifier = {
+                generate_wargoal_tension = 0.0
+                join_faction_tension = 1.0
+                lend_lease_tension = 1.0
+                send_volunteers_tension = 1.0
+                
+                take_states_cost_factor = 0.25
+                annex_cost_factor = 0.25
+                
+                conscription = 0.1
+                consumer_goods_factor = 0.2
+                min_export = 0.0
+            }
+            rule = {
+                can_declare_war_on_same_ideology = no
+                can_force_government = no
+                can_send_volunteers = yes
+                can_puppet = yes
+                can_lower_tension = yes
+                can_only_justify_war_on_threat_country = no
+                can_guarantee_other_ideologies = no
+            }
+        }
+        race_necron = {
+            allowed = {
+                always = no
+            }
+            allowed_civil_war = {
+                always = yes
+            }
+            removal_cost = -1
+            
+            modifier = {
+                generate_wargoal_tension = 0.0
+                join_faction_tension = 1.0
+                
+                take_states_cost_factor = -0.25
+                annex_cost_factor = -0.25
+                
+                conscription = 0.25
+                consumer_goods_factor = 0.0
+                min_export = 0.0
+            }
+            rule = {
+                can_declare_war_on_same_ideology = no
+                can_force_government = no
+                can_send_volunteers = no
+                can_puppet = no
+                can_lower_tension = no
+                can_only_justify_war_on_threat_country = no
+                can_guarantee_other_ideologies = no
+            }
+        }
+        race_ork = {
+            allowed = {
+                always = no
+            }
+            allowed_civil_war = {
+                always = yes
+            }
+            removal_cost = -1
+            
+            modifier = {
+                generate_wargoal_tension = 0.0
+                join_faction_tension = 1.0
+                
+                take_states_cost_factor = -0.25
+                annex_cost_factor = -0.25
+                
+                conscription = 0.75
+                consumer_goods_factor = 0.0
+                min_export = 0.0
+            }
+            rule = {
+                can_declare_war_on_same_ideology = yes
+                can_force_government = no
+                can_send_volunteers = no
+                can_puppet = no
+                can_lower_tension = no
+                can_only_justify_war_on_threat_country = no
+                can_guarantee_other_ideologies = no
+            }
+        }
+        race_tau = {
+            allowed = {
+                always = no
+            }
+            allowed_civil_war = {
+                always = yes
+            }
+            removal_cost = -1
+            
+            modifier = {
+                generate_wargoal_tension = 0.0
+                join_faction_tension = 1.0
+                lend_lease_tension = 1.0
+                send_volunteers_tension = 1.0
+                
+                take_states_cost_factor = 0.25
+                annex_cost_factor = 0.25
+                
+                conscription = 0.1
+                consumer_goods_factor = 0.15
+                min_export = 0.0
+            }
+            rule = {
+                can_declare_war_on_same_ideology = no
+                can_force_government = no
+                can_send_volunteers = yes
+                can_puppet = yes
+                can_lower_tension = yes
+                can_only_justify_war_on_threat_country = no
+                can_guarantee_other_ideologies = no
+            }
+        }
+        race_tyranid = {
+            allowed = {
+                always = no
+            }
+            allowed_civil_war = {
+                always = yes
+            }
+            removal_cost = -1
+            
+            modifier = {
+                generate_wargoal_tension = 0.0
+                join_faction_tension = 1.0
+                
+                take_states_cost_factor = -0.5
+                annex_cost_factor = -0.5
+                
+                conscription = 1.0
+                consumer_goods_factor = 0.0
+                min_export = 0.0
+            }
+            rule = {
+                can_declare_war_on_same_ideology = no
+                can_force_government = no
+                can_send_volunteers = no
+                can_puppet = no
+                can_lower_tension = no
+                can_only_justify_war_on_threat_country = no
+                can_guarantee_other_ideologies = no
+            }
+        }
+        race_genestealer = {
+            allowed = {
+                always = no
+            }
+            allowed_civil_war = {
+                always = yes
+            }
+            removal_cost = -1
+            
+            modifier = {
+                generate_wargoal_tension = 0.0
+                join_faction_tension = 1.0
+                
+                take_states_cost_factor = -0.5
+                annex_cost_factor = -0.5
+                
+                conscription = 0.25
+                consumer_goods_factor = 0.0
+                min_export = 0.0
+            }
+            rule = {
+                can_declare_war_on_same_ideology = no
+                can_force_government = no
+                can_send_volunteers = no
+                can_puppet = no
+                can_lower_tension = no
+                can_only_justify_war_on_threat_country = no
+                can_guarantee_other_ideologies = no
+            }
+        }
+	}
+}

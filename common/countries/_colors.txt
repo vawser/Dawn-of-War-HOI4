@@ -1,0 +1,241 @@
+#reload countrycolors
+
+#--------------------
+# Imperium
+#--------------------
+IMP = {
+	color = rgb { 155 141 111 }
+	color_ui = rgb { 155 141 111 }
+}
+BLK = {
+	color = rgb { 30 30 30 }
+	color_ui = rgb { 30 30 30 }
+}
+BLO = {
+    color = rgb { 188 49 39 }
+	color_ui = rgb { 188 49 39 }
+}
+DKA = {
+    color = rgb { 30 104 38 }
+	color_ui = rgb { 30 104 38 }
+}
+GKT = {
+    color = rgb { 111 111 111 }
+	color_ui = rgb { 111 111 111 }
+}
+IMF = {
+    color = rgb { 247 245 111 }
+	color_ui = rgb { 247 245 111 }
+}
+IRH = {
+    color = rgb { 40 40 40 }
+	color_ui = rgb { 40 40 40 }
+}
+SPW = {
+    color = rgb { 162 213 213 }
+	color_ui = rgb { 162 213 213 }
+}
+ULT = {
+	color = rgb { 18 10 143 }
+	color_ui = rgb { 18 10 143 }
+}
+DWT = {
+    color = rgb { 97 106 137 }
+	color_ui = rgb { 97 106 137 }
+}
+RVG = {
+    color = rgb { 97 136 106 }
+	color_ui = rgb { 97 136 106 }
+}
+SAL = {
+    color = rgb { 135 193 135 }
+	color_ui = rgb { 135 193 135 }
+}
+WTS = {
+    color = rgb { 250 250 250 }
+	color_ui = rgb { 250 250 250 }
+}
+OES = {
+    color = rgb { 79 72 181 }
+	color_ui = rgb { 79 72 181 }
+}
+OBO = {
+    color = rgb { 181 126 72 }
+	color_ui = rgb { 181 126 72 }
+}
+
+#--------------------
+# Chaos
+#--------------------
+BKL = {
+    color = rgb { 91 90 74 }
+	color_ui = rgb { 91 90 74 }
+}
+WET = {
+    color = rgb { 140 32 32 }
+	color_ui = rgb { 140 32 32 }
+}
+TSO = {
+    color = rgb { 32 89 140 }
+	color_ui = rgb { 32 89 140 }
+}
+DGD = {
+    color = rgb { 162 173 79 }
+	color_ui = rgb { 162 173 79 }
+}
+EMC = {
+    color = rgb { 139 79 173 }
+	color_ui = rgb { 139 79 173 }
+}
+WBS = {
+    color = rgb { 132 25 46 }
+	color_ui = rgb { 132 25 46 }
+}
+IWR = {
+    color = rgb { 160 113 27 }
+	color_ui = rgb { 160 113 27 }
+}
+APL = {
+    color = rgb { 57 88 150 }
+	color_ui = rgb { 57 88 150 }
+}
+NLD = {
+    color = rgb { 58 76 112 }
+	color_ui = rgb { 58 76 112 }
+}
+IFH = {
+    color = rgb { 135 50 50 }
+	color_ui = rgb { 135 50 50 }
+}
+SOU = {
+    color = rgb { 103 50 135 }
+	color_ui = rgb { 103 50 135 }
+}
+BOB = {
+    color = rgb { 135 25 25 }
+	color_ui = rgb { 135 25 25 }
+}
+JAO = {
+    color = rgb { 224 129 33 }
+	color_ui = rgb { 224 129 33 }
+}
+GVP = {
+    color = rgb { 56 167 175 }
+	color_ui = rgb { 56 167 175 }
+}
+LSP = {
+    color = rgb { 29 81 175 }
+	color_ui = rgb { 29 81 175 }
+}
+GOL = {
+    color = rgb { 27 135 39 }
+	color_ui = rgb { 27 135 39 }
+}
+CTB = {
+    color = rgb { 129 196 137 }
+	color_ui = rgb { 129 196 137 }
+}
+PLE = {
+    color = rgb { 187 129 196 }
+	color_ui = rgb { 187 129 196 }
+}
+BLI = {
+    color = rgb { 111 63 150 }
+	color_ui = rgb { 111 63 150 }
+}
+
+#--------------------
+# Dark Eldar
+#--------------------
+KBH = {
+    color = rgb { 117 31 61 }
+	color_ui = rgb { 117 31 61 }
+}
+KFM = {
+    color = rgb { 183 240 240 }
+	color_ui = rgb { 183 240 240 }
+}
+TES = {
+    color = rgb { 95 50 119 }
+	color_ui = rgb { 95 50 119 }
+}
+COG = {
+    color = rgb { 124 12 63 }
+	color_ui = rgb { 124 12 63 }
+}
+
+#--------------------
+# Eldar
+#--------------------
+ALA = {
+    color = rgb { 49 82 124 }
+	color_ui = rgb { 49 82 124 }
+}
+BIE = {
+    color = rgb { 240 240 240 }
+	color_ui = rgb { 240 240 240 }
+}
+SAM = {
+    color = rgb { 142 30 15 }
+	color_ui = rgb { 142 30 15 }
+}
+ULW = {
+    color = rgb { 10 10 10 }
+	color_ui = rgb { 10 10 10 }
+}
+
+#--------------------
+# Necrons
+#--------------------
+NEC = {
+    color = rgb { 107 122 106 }
+	color_ui = rgb { 107 122 106 }
+}
+
+#--------------------
+# Orks
+#--------------------
+BMO = {
+    color = rgb { 183 166 34 }
+	color_ui = rgb { 183 166 34 }
+}
+BOX = {
+    color = rgb { 163 72 58 }
+	color_ui = rgb { 163 72 58 }
+}
+DSK = {
+    color = rgb { 58 163 145 }
+	color_ui = rgb { 58 163 145 }
+}
+EVS = {
+    color = rgb { 173 78 19 }
+	color_ui = rgb { 173 78 19 }
+}
+GOF = {
+    color = rgb { 32 89 27 }
+	color_ui = rgb { 32 89 27 }
+}
+SKB = {
+    color = rgb { 86 163 113 }
+	color_ui = rgb { 86 163 113 }
+}
+
+#--------------------
+# Tau
+#--------------------
+KOR = {
+    color = rgb { 229 227 188 }
+	color_ui = rgb { 229 227 188 }
+}
+
+#--------------------
+# Tyranids
+#--------------------
+KRA = {
+    color = rgb { 204 25 12 }
+	color_ui = rgb { 204 25 12 }
+}
+COI = {
+    color = rgb { 165 100 96 }
+	color_ui = rgb { 165 100 96 }
+}

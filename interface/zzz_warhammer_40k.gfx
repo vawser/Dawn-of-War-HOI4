@@ -1,0 +1,8 @@
+spriteTypes = {	
+    spriteType = {
+		name = "GFX_select_date_battle_for_plutos"
+		texturefile = "gfx/interface/select_date_battle_for_plutos.dds"
+	}
+    
+    
+}

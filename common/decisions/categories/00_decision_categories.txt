@@ -1,0 +1,7 @@
+propaganda_efforts = {
+	icon = generic_propaganda
+
+	visible = {
+
+	}
+}

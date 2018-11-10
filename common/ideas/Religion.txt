@@ -1,0 +1,161 @@
+ideas = {
+	country = {
+        religion_imperial_cult = {
+            allowed = {
+                always = no
+            }
+            allowed_civil_war = {
+                always = yes
+            }
+            removal_cost = -1
+            
+            modifier = {
+                
+            }
+        }
+        religion_chaos_undivided = {
+            allowed = {
+                always = no
+            }
+            allowed_civil_war = {
+                always = yes
+            }
+            removal_cost = -1
+            
+            modifier = {
+                
+            }
+        }
+        religion_khorne = {
+            allowed = {
+                always = no
+            }
+            allowed_civil_war = {
+                always = yes
+            }
+            removal_cost = -1
+            
+            modifier = {
+                
+            }
+        }
+        religion_tzeentch = {
+            allowed = {
+                always = no
+            }
+            allowed_civil_war = {
+                always = yes
+            }
+            removal_cost = -1
+            
+            modifier = {
+                
+            }
+        }
+        religion_nurgle = {
+            allowed = {
+                always = no
+            }
+            allowed_civil_war = {
+                always = yes
+            }
+            removal_cost = -1
+            
+            modifier = {
+                
+            }
+        }
+        religion_slannesh = {
+            allowed = {
+                always = no
+            }
+            allowed_civil_war = {
+                always = yes
+            }
+            removal_cost = -1
+            
+            modifier = {
+                
+            }
+        }
+        religion_hedonism = {
+            allowed = {
+                always = no
+            }
+            allowed_civil_war = {
+                always = yes
+            }
+            removal_cost = -1
+            
+            modifier = {
+                
+            }
+        }
+        religion_eldar_pantheon = {
+            allowed = {
+                always = no
+            }
+            allowed_civil_war = {
+                always = yes
+            }
+            removal_cost = -1
+            
+            modifier = {
+                
+            }
+        }
+        religion_ctan = {
+            allowed = {
+                always = no
+            }
+            allowed_civil_war = {
+                always = yes
+            }
+            removal_cost = -1
+            
+            modifier = {
+                
+            }
+        }
+        religion_gork_and_mork = {
+            allowed = {
+                always = no
+            }
+            allowed_civil_war = {
+                always = yes
+            }
+            removal_cost = -1
+            
+            modifier = {
+                
+            }
+        }
+        religion_greater_good = {
+            allowed = {
+                always = no
+            }
+            allowed_civil_war = {
+                always = yes
+            }
+            removal_cost = -1
+            
+            modifier = {
+                
+            }
+        }
+        religion_hivemind = {
+            allowed = {
+                always = no
+            }
+            allowed_civil_war = {
+                always = yes
+            }
+            removal_cost = -1
+            
+            modifier = {
+                
+            }
+        }
+    }
+}
+
