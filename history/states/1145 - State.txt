@@ -12,7 +12,8 @@ state = {
 	}
 
 	history = {
-
+        owner = KRA
+        add_core_of = KRA
 
 		buildings = {
 			infrastructure = 8

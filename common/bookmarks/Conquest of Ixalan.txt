@@ -6,11 +6,85 @@ bookmarks = {
 		picture = "GFX_select_date_bookmark"
 		default_country = "IMP"
 	
+        # Major
         "IMP"={
             history = "IMP_HISTORY_DESC"
             ideology = containment
+            # ideas = { }
+            # focuses = { }
         }
-
+        "BKL"={
+            history = "BKL_HISTORY_DESC"
+            ideology = pandemonium
+        }
+        "KBH"={
+            history = "KBH_HISTORY_DESC"
+            ideology = pandemonium
+        }
+        "BIE"={
+            history = "BIE_HISTORY_DESC"
+            ideology = containment
+        }
+        "NEC"={
+            history = "NEC_HISTORY_DESC"
+            ideology = eradication
+        }
+        "KOR"={
+            history = "KOR_HISTORY_DESC"
+            ideology = containment
+        }
+        "KRA"={
+            history = "KRA_HISTORY_DESC"
+            ideology = eradication
+        }
+        
+        # Minors
+        "ULT"={
+            history = "ULT_HISTORY_DESC"
+            ideology = containment
+            minor = yes
+        }
+        "GKT"={
+            history = "GKT_HISTORY_DESC"
+            ideology = containment
+            minor = yes
+        }
+        "OES"={
+            history = "OES_HISTORY_DESC"
+            ideology = containment
+            minor = yes
+        }
+        "IFH"={
+            history = "IFH_HISTORY_DESC"
+            ideology = pandemonium
+            minor = yes
+        }
+        "BOB"={
+            history = "BOB_HISTORY_DESC"
+            ideology = pandemonium
+            minor = yes
+        }
+        "LSP"={
+            history = "LSP_HISTORY_DESC"
+            ideology = pandemonium
+            minor = yes
+        }
+        "GOL"={
+            history = "GOL_HISTORY_DESC"
+            ideology = pandemonium
+            minor = yes
+        }
+        "PLE"={
+            history = "PLE_HISTORY_DESC"
+            ideology = pandemonium
+            minor = yes
+        }
+        "COI"={
+            history = "COI_HISTORY_DESC"
+            ideology = eradication
+            minor = yes
+        }
+        
         "---"={
 			history = "BLANK_DESC"
 		}
