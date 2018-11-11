@@ -1,0 +1,23 @@
+﻿l_english: 
+ #-----------------------------------
+ # Resources
+ #-----------------------------------
+ PRODUCTION_MATERIALS_ADAMANTIUM: "Adamantium"
+ PRODUCTION_MATERIALS_PLASTEEL: "Plasteel"
+ PRODUCTION_MATERIALS_CERAMITE: "Ceramite"
+ PRODUCTION_MATERIALS_BLACKSTONE: "Blackstone"
+ PRODUCTION_MATERIALS_BIOMATTER: "Biomatter"
+ PRODUCTION_MATERIALS_WRAITHBONE: "Wraithbone"
+ 
+ adamantium: "Adamantium"
+ adamantium_desc: "One of the strongest materials used by the Imperium in armour and weapons."
+ plasteel: "Plasteel"
+ plasteel_desc: "A highly durable and lightweight material used in many forms of armour and weapons."
+ ceramite: "Ceramite"
+ ceramite_desc: "A ceramic material and conducts almost no heat, providing excellent heat resistance."
+ blackstone: "Blackstone"
+ blackstone_desc: "A mysterious substance used by the Necrons. Highly resistant to the powers of the Warp."
+ biomatter: "Biomatter"
+ biomatter_desc: "Organic, fleshy matter used by the more exotic races of the galaxy."
+ wraithbone: "Wraithbone"
+ wraithbone_desc: "A psycho-plastic substance used by the Eldar for many different taks."

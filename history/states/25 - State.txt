@@ -1,0 +1,60 @@
+state = {
+	id = 25
+	name = "STATE_DOW_25"
+	manpower = 570372
+	state_category = metropolis
+
+	resources = {
+		adamantium = 1
+		plasteel = 2
+		biomatter = 24
+		wraithbone = 4
+	}
+
+	history = {
+        owner = COI
+        add_core_of = COI
+
+		buildings = {
+			infrastructure = 6
+			air_base = 1
+			anti_air_building = 0
+			radar_station = 0
+			
+			arms_factory = 10
+			industrial_complex = 5
+
+			2021 = {
+				bunker = 2
+			}
+			3859 = {
+				bunker = 8
+			}
+			4422 = {
+				bunker = 1
+			}
+			5172 = {
+				bunker = 7
+			}
+			9327 = {
+				bunker = 0
+			}
+			11324 = {
+				bunker = 3
+			}
+			14439 = {
+				bunker = 3
+			}
+			14517 = {
+				bunker = 4
+			}
+			15210 = {
+				bunker = 3
+			}
+		}
+	}
+
+	provinces = {
+        2021 3859 4422 5172 9327 11324 14439 14517 15210 
+    }
+}

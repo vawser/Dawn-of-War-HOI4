@@ -1,0 +1,27 @@
+﻿capital = 1
+
+oob = "default_country_oob"
+
+set_research_slots = 3
+
+set_technology = {
+
+}
+
+add_ideas = {
+    race_cultist
+    religion_slannesh
+}
+
+set_politics = {
+    ruling_party = pandemonium 
+	parties = {
+		eradication = { popularity = 0 }
+        containment = { popularity = 0 }
+        pandemonium = { popularity = 100 }
+	}
+	elections_allowed = no
+}
+
+set_stability = 0.5
+set_war_support = 0.0

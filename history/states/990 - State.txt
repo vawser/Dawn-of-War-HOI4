@@ -1,0 +1,23 @@
+state = {
+	id = 990
+	name = "STATE_DOW_990"
+	manpower = 674208
+	state_category = wasteland
+	impassable = yes
+
+	resources = {
+		adamantium = 3
+		plasteel = 4
+		ceramite = 5
+		biomatter = 6
+		wraithbone = 8
+	}
+
+	history = {
+        
+	}
+
+	provinces = {
+        1191 3778 5148 8893 11924 14410 19375 19499 19543 
+    }
+}

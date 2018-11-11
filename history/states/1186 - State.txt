@@ -1,0 +1,76 @@
+state = {
+	id = 1186
+	name = "STATE_DOW_1186"
+	manpower = 928883
+	state_category = metropolis
+
+	resources = {
+		adamantium = 1
+		plasteel = 9
+		ceramite = 6
+		biomatter = 23
+		wraithbone = 1
+	}
+
+	history = {
+        owner = KRA
+        add_core_of = KRA
+
+		buildings = {
+			infrastructure = 2
+			air_base = 1
+			anti_air_building = 0
+			radar_station = 0
+			
+			arms_factory = 6
+			industrial_complex = 4
+
+			1537 = {
+				bunker = 8
+			}
+			1780 = {
+				bunker = 4
+			}
+			2060 = {
+				bunker = 3
+			}
+			4345 = {
+				bunker = 0
+			}
+			4837 = {
+				bunker = 3
+			}
+			7134 = {
+				bunker = 5
+			}
+			12308 = {
+				bunker = 4
+			}
+			12433 = {
+				bunker = 4
+			}
+			12497 = {
+				bunker = 3
+			}
+			12626 = {
+				bunker = 1
+			}
+			20183 = {
+				bunker = 4
+			}
+			20221 = {
+				bunker = 9
+			}
+			20280 = {
+				bunker = 7
+			}
+			20324 = {
+				bunker = 9
+			}
+		}
+	}
+
+	provinces = {
+        1537 1780 2060 4345 4837 7134 12308 12433 12497 12626 20183 20221 20280 20324 
+    }
+}

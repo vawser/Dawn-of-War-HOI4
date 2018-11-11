@@ -1,0 +1,78 @@
+state = {
+	id = 320
+	name = "STATE_DOW_320"
+	manpower = 617258
+	state_category = metropolis
+
+	resources = {
+		adamantium = 4
+		plasteel = 8
+		ceramite = 8
+		biomatter = 16
+		wraithbone = 9
+	}
+
+	history = {
+
+
+		buildings = {
+			infrastructure = 0
+			air_base = 0
+			anti_air_building = 1
+			radar_station = 0
+			
+			arms_factory = 5
+			industrial_complex = 9
+
+			17 = {
+				bunker = 5
+			}
+			274 = {
+				bunker = 7
+			}
+			2105 = {
+				bunker = 1
+			}
+			2357 = {
+				bunker = 8
+			}
+			9309 = {
+				bunker = 3
+			}
+			9971 = {
+				bunker = 0
+			}
+			10234 = {
+				bunker = 3
+			}
+			12890 = {
+				bunker = 0
+			}
+			16355 = {
+				bunker = 4
+			}
+			16456 = {
+				bunker = 8
+			}
+			16469 = {
+				bunker = 1
+			}
+			16533 = {
+				bunker = 7
+			}
+			16539 = {
+				bunker = 6
+			}
+			16583 = {
+				bunker = 8
+			}
+			16620 = {
+				bunker = 3
+			}
+		}
+	}
+
+	provinces = {
+        17 274 2105 2357 9309 9971 10234 12890 16355 16456 16469 16533 16539 16583 16620 
+    }
+}

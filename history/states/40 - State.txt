@@ -1,0 +1,79 @@
+state = {
+	id = 40
+	name = "STATE_DOW_40"
+	manpower = 705672
+	state_category = metropolis
+
+	resources = {
+		adamantium = 2
+		plasteel = 6
+		ceramite = 9
+		biomatter = 4
+		wraithbone = 3
+	}
+
+	history = {
+        owner = IMP
+        add_core_of = IMP
+
+		buildings = {
+			infrastructure = 3
+			air_base = 1
+			anti_air_building = 0
+			radar_station = 0
+			
+			arms_factory = 7
+			industrial_complex = 4
+
+			2987 = {
+				bunker = 3
+			}
+			4394 = {
+				bunker = 2
+			}
+			4565 = {
+				bunker = 7
+			}
+			4683 = {
+				bunker = 5
+			}
+			6565 = {
+				bunker = 4
+			}
+			9060 = {
+				bunker = 3
+			}
+			13246 = {
+				bunker = 1
+			}
+			13477 = {
+				bunker = 6
+			}
+			14913 = {
+				bunker = 7
+			}
+			15231 = {
+				bunker = 7
+			}
+			15232 = {
+				bunker = 1
+			}
+			15295 = {
+				bunker = 4
+			}
+			15314 = {
+				bunker = 4
+			}
+			15334 = {
+				bunker = 6
+			}
+			15344 = {
+				bunker = 6
+			}
+		}
+	}
+
+	provinces = {
+        2987 4394 4565 4683 6565 9060 13246 13477 14913 15231 15232 15295 15314 15334 15344 
+    }
+}

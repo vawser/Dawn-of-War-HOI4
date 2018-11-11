@@ -1,6 +1,6 @@
 spriteTypes = {	
     spriteType = {
-		name = "GFX_select_date_battle_for_plutos"
+		name = "GFX_select_date_bookmark"
 		texturefile = "gfx/interface/select_date_battle_for_plutos.dds"
 	}
     

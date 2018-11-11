@@ -1,16 +1,8 @@
 ﻿l_english: 
  # Bookmarks
- 2161_NAME: "The Water Chip"
- 2161_DESC: "The Vault Dweller enters the wasteland in search of the water chip for Vault 13."
- 
- 2241_NAME: "Fall of the Enclave"
- 2241_DESC: "The Chosen One beguns his mystic test, decending into the Temple of Trials."
- 
- 2248_NAME: "Birth of the Legion"
- 2248_DESC: "Caesar begins his conquest of the Arizona tribes."
+ CONQUEST_OF_IXALAN_NAME: "Conquest of Ixalan"
+ CONQUEST_OF_IXALAN_DESC: "Deemed a Feral World, Ixalan had been long forgotten by the Imperium and the other races of the galaxy.\n\nRumours emerged that the presence of a Black Cube, an ancient chaotic weapon of planetary destruction used by the first races, exists on Ixalan. Although deemed heretical, the Imperium sent numerous forces to scour Ixalan in search of the elusive weapon so it could be destroyed.\n\nOver the years the search has proven fruitless, and Imperial activity in the region has attracted many of the other races of the galaxy, turning Ixalan into a battlefield."
  
  BLANK_DESC: "Intentionally blank."
  
- # Events
- setup.1.title: "Test"
- setup.1.desc: "Test"
+ 

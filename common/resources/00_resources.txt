@@ -1,36 +1,42 @@
 resources = {
-
-	oil = {
+    # Adamantium    (Imperium, Chaos, Tau)
+    # Plasteel      (Imperium, Chaos, Tau)
+    # Ceramite      (Imperium, Chaos, Tau)
+    # Blackstone    (Necron, Imperium)
+    # Biomatter     (Tyranids, Orks)
+    # Wraithbone    (Eldar, Dark Eldar)
+    
+	adamantium = {
 		icon_frame = 1
 		cic = 0.125
 		convoys = 0.1
 	}
 
-	aluminium = {
+	plasteel = {
 		icon_frame = 2
 		cic = 0.125
 		convoys = 0.1
 	}
 
-	rubber = {
+	ceramite = {
 		icon_frame = 3
 		cic = 0.125
 		convoys = 0.1
 	}
 	
-	tungsten = {
+	blackstone = {
 		icon_frame = 4
 		cic = 0.125
 		convoys = 0.1
 	}
 	
-	steel = {
+	biomatter = {
 		icon_frame = 5
 		cic = 0.125
 		convoys = 0.1
 	}
 	
-	chromium = {
+	wraithbone = {
 		icon_frame = 6
 		cic = 0.125
 		convoys = 0.1

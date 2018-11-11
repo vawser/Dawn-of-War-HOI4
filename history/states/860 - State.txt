@@ -1,0 +1,129 @@
+state = {
+	id = 860
+	name = "STATE_DOW_860"
+	manpower = 589932
+	state_category = metropolis
+
+	resources = {
+		adamantium = 2
+		plasteel = 7
+		ceramite = 3
+		biomatter = 20
+		wraithbone = 1
+	}
+
+	history = {
+
+
+		buildings = {
+			infrastructure = 2
+			air_base = 0
+			anti_air_building = 1
+			radar_station = 0
+			
+			arms_factory = 10
+			industrial_complex = 1
+
+			91 = {
+				bunker = 0
+			}
+			222 = {
+				bunker = 4
+			}
+			792 = {
+				bunker = 4
+			}
+			888 = {
+				bunker = 2
+			}
+			1105 = {
+				bunker = 4
+			}
+			1198 = {
+				bunker = 4
+			}
+			2019 = {
+				bunker = 9
+			}
+			2412 = {
+				bunker = 1
+			}
+			4463 = {
+				bunker = 7
+			}
+			5298 = {
+				bunker = 6
+			}
+			5560 = {
+				bunker = 4
+			}
+			6630 = {
+				bunker = 3
+			}
+			6706 = {
+				bunker = 4
+			}
+			6719 = {
+				bunker = 5
+			}
+			6762 = {
+				bunker = 3
+			}
+			8123 = {
+				bunker = 6
+			}
+			8503 = {
+				bunker = 4
+			}
+			9075 = {
+				bunker = 1
+			}
+			11592 = {
+				bunker = 7
+			}
+			12730 = {
+				bunker = 8
+			}
+			13067 = {
+				bunker = 8
+			}
+			14241 = {
+				bunker = 5
+			}
+			14704 = {
+				bunker = 1
+			}
+			18833 = {
+				bunker = 4
+			}
+			18853 = {
+				bunker = 2
+			}
+			18917 = {
+				bunker = 5
+			}
+			18930 = {
+				bunker = 6
+			}
+			18937 = {
+				bunker = 1
+			}
+			18967 = {
+				bunker = 3
+			}
+			19004 = {
+				bunker = 3
+			}
+			19051 = {
+				bunker = 9
+			}
+			19078 = {
+				bunker = 8
+			}
+		}
+	}
+
+	provinces = {
+        91 222 792 888 1105 1198 2019 2412 4463 5298 5560 6630 6706 6719 6762 8123 8503 9075 11592 12730 13067 14241 14704 18833 18853 18917 18930 18937 18967 19004 19051 19078 
+    }
+}

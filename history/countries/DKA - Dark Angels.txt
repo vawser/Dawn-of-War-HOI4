@@ -1,0 +1,27 @@
+﻿capital = 1
+
+oob = "default_country_oob"
+
+set_research_slots = 3
+
+set_technology = {
+
+}
+
+add_ideas = {
+    race_space_marine
+    religion_imperial_cult
+}
+
+set_politics = {
+    ruling_party = containment 
+	parties = {
+		eradication = { popularity = 0 }
+        containment = { popularity = 100 }
+        pandemonium = { popularity = 0 }
+	}
+	elections_allowed = no
+}
+
+set_stability = 0.5
+set_war_support = 0.0
