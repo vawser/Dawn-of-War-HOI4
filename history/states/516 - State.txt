@@ -11,7 +11,8 @@ state = {
 	}
 
 	history = {
-
+        owner = ALA
+        add_core_of = ALA
 
 		buildings = {
 			infrastructure = 7

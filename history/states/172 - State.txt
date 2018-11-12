@@ -13,7 +13,8 @@ state = {
 	}
 
 	history = {
-
+        owner = DKA
+        add_core_of = DKA
 
 		buildings = {
 			infrastructure = 2

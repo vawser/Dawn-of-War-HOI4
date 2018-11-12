@@ -13,7 +13,8 @@ state = {
 	}
 
 	history = {
-
+        owner = BIE
+        add_core_of = BIE
 
 		buildings = {
 			infrastructure = 6

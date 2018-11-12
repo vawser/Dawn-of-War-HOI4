@@ -2,7 +2,8 @@ state = {
 	id = 9
 	name = "STATE_DOW_9"
 	manpower = 164294
-	state_category = metropolis
+	state_category = wasteland
+	impassable = yes
 
 	resources = {
 		adamantium = 4

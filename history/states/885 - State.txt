@@ -13,7 +13,8 @@ state = {
 	}
 
 	history = {
-
+        owner = IFH
+        add_core_of = IFH
 
 		buildings = {
 			infrastructure = 4

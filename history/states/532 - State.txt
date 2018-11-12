@@ -13,7 +13,8 @@ state = {
 	}
 
 	history = {
-
+        owner = IWR
+        add_core_of = IWR
 
 		buildings = {
 			infrastructure = 2

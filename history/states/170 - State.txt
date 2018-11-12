@@ -13,7 +13,8 @@ state = {
 	}
 
 	history = {
-
+        owner = APL
+        add_core_of = APL
 
 		buildings = {
 			infrastructure = 5

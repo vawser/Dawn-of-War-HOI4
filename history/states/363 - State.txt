@@ -12,7 +12,8 @@ state = {
 	}
 
 	history = {
-
+        owner = WET
+        add_core_of = WET
 
 		buildings = {
 			infrastructure = 9

@@ -12,7 +12,8 @@ state = {
 	}
 
 	history = {
-
+        owner = KBH
+        add_core_of = KBH
 
 		buildings = {
 			infrastructure = 7

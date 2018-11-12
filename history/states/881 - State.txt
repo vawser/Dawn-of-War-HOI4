@@ -12,7 +12,8 @@ state = {
 	}
 
 	history = {
-
+        owner = TES
+        add_core_of = TES
 
 		buildings = {
 			infrastructure = 2

@@ -13,7 +13,8 @@ state = {
 	}
 
 	history = {
-
+        owner = DWT
+        add_core_of = DWT
 
 		buildings = {
 			infrastructure = 2

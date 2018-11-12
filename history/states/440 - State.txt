@@ -12,7 +12,8 @@ state = {
 	}
 
 	history = {
-
+        owner = IMF
+        add_core_of = IMF
 
 		buildings = {
 			infrastructure = 5

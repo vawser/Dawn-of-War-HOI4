@@ -13,7 +13,8 @@ state = {
 	}
 
 	history = {
-
+        owner = OES
+        add_core_of = OES
 
 		buildings = {
 			infrastructure = 6

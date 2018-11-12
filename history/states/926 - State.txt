@@ -12,7 +12,8 @@ state = {
 	}
 
 	history = {
-
+        owner = SOU
+        add_core_of = SOU
 
 		buildings = {
 			infrastructure = 3

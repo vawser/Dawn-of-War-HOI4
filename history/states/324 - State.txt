@@ -12,7 +12,8 @@ state = {
 	}
 
 	history = {
-
+        owner = JAO
+        add_core_of = JAO
 
 		buildings = {
 			infrastructure = 1

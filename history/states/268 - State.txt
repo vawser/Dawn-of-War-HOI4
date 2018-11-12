@@ -13,7 +13,8 @@ state = {
 	}
 
 	history = {
-
+        owner = SAL
+        add_core_of = SAL
 
 		buildings = {
 			infrastructure = 0

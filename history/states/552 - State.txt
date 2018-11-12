@@ -13,7 +13,8 @@ state = {
 	}
 
 	history = {
-
+        owner = GKT
+        add_core_of = GKT
 
 		buildings = {
 			infrastructure = 0

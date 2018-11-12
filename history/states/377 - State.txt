@@ -13,7 +13,8 @@ state = {
 	}
 
 	history = {
-
+        owner = DGD
+        add_core_of = DGD
 
 		buildings = {
 			infrastructure = 6

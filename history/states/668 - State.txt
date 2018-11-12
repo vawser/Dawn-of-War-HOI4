@@ -12,7 +12,8 @@ state = {
 	}
 
 	history = {
-
+        owner = TSO
+        add_core_of = TSO
 
 		buildings = {
 			infrastructure = 9

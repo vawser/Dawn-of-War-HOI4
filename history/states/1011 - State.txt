@@ -13,7 +13,8 @@ state = {
 	}
 
 	history = {
-
+        owner = NEC
+        add_core_of = NEC
 
 		buildings = {
 			infrastructure = 7

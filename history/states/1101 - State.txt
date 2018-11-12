@@ -13,7 +13,8 @@ state = {
 	}
 
 	history = {
-
+        owner = WBS
+        add_core_of = WBS
 
 		buildings = {
 			infrastructure = 4

@@ -10,7 +10,8 @@ state = {
 	}
 
 	history = {
-
+        owner = KFM
+        add_core_of = KFM
 
 		buildings = {
 			infrastructure = 3

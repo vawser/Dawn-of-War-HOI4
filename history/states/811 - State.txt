@@ -10,7 +10,8 @@ state = {
 	}
 
 	history = {
-
+        owner = BLO
+        add_core_of = BLO
 
 		buildings = {
 			infrastructure = 3

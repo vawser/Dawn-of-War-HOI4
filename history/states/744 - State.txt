@@ -12,7 +12,8 @@ state = {
 	}
 
 	history = {
-
+        owner = WTS
+        add_core_of = WTS
 
 		buildings = {
 			infrastructure = 5

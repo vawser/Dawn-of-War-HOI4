@@ -11,7 +11,8 @@ state = {
 	}
 
 	history = {
-
+        owner = BLK
+        add_core_of = BLK
 
 		buildings = {
 			infrastructure = 2

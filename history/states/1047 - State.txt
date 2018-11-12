@@ -13,7 +13,8 @@ state = {
 	}
 
 	history = {
-
+        owner = LSP
+        add_core_of = LSP
 
 		buildings = {
 			infrastructure = 1

@@ -11,7 +11,8 @@ state = {
 	}
 
 	history = {
-
+        owner = EMC
+        add_core_of = EMC
 
 		buildings = {
 			infrastructure = 4

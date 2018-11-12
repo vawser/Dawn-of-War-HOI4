@@ -13,7 +13,8 @@ state = {
 	}
 
 	history = {
-
+        owner = GOL
+        add_core_of = GOL
 
 		buildings = {
 			infrastructure = 3

@@ -13,7 +13,8 @@ state = {
 	}
 
 	history = {
-
+        owner = CTB
+        add_core_of = CTB
 
 		buildings = {
 			infrastructure = 3

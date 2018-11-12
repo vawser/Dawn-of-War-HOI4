@@ -11,7 +11,8 @@ state = {
 	}
 
 	history = {
-
+        owner = IRH
+        add_core_of = IRH
 
 		buildings = {
 			infrastructure = 6

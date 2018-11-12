@@ -8,12 +8,14 @@ state = {
 		adamantium = 3
 		plasteel = 3
 		ceramite = 7
+        blackstone = 1
 		biomatter = 6
 		wraithbone = 1
 	}
 
 	history = {
-
+        owner = NEC
+        add_core_of = NEC
 
 		buildings = {
 			infrastructure = 1

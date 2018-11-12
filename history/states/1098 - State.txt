@@ -11,7 +11,8 @@ state = {
 	}
 
 	history = {
-
+        owner = ULT
+        add_core_of = ULT
 
 		buildings = {
 			infrastructure = 5

@@ -10,7 +10,8 @@ state = {
 	}
 
 	history = {
-
+        owner = NLD
+        add_core_of = NLD
 
 		buildings = {
 			infrastructure = 2

@@ -13,7 +13,8 @@ state = {
 	}
 
 	history = {
-
+        owner = PLE
+        add_core_of = PLE
 
 		buildings = {
 			infrastructure = 0

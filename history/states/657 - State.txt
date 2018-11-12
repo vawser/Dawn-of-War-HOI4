@@ -11,7 +11,8 @@ state = {
 	}
 
 	history = {
-
+        owner = BLI
+        add_core_of = BLI
 
 		buildings = {
 			infrastructure = 0
